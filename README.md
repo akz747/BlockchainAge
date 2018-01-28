@@ -16,16 +16,22 @@
 
 这个系列文章的名字（区块链技术指北）来源值得一提。最初的名字拟定是「区块链技术分享」，结果注册微信公众号时发现重名了，接着使用「区块链技术指南」，依然提示重名，只好戏虐地写了个「区块链技术指北」。另外，微信公众号的 ID 是「BlockchainAge」，**希望我们在区块链时代自由地行走。**
 
-「区块链技术指北」同名**知识星球**，二维码如下，欢迎加入。
+「区块链技术指北」同名 **知识星球**，二维码如下，欢迎加入。BTW，**李笑来老师也加入了**。
 
 ![区块链技术指北](https://i.imgur.com/pQxlDqF.jpg)
 
-「区块链技术指北」同名 Telegram Channel：[https://t.me/BlockchainAge](https://t.me/BlockchainAge)，欢迎订阅。
+「区块链技术指北」相关资讯渠道：
+
+* 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
+* 官方社区，[https://bcage.one](https://bcage.one)
+* Telegram Channel，[https://t.me/BlockchainAge](https://t.me/BlockchainAge)
+* Telegram Group，[https://t.me/bcage](https://t.me/bcage)
+* Twitter，[https://twitter.com/bcageone](https://twitter.com/bcageone)
+* 新浪微博，[https://weibo.com/BlockchainAge](https://weibo.com/BlockchainAge)
 
 同时，本系列文章会在以下渠道同步更新，欢迎关注：
 
 * 「区块链技术指北」同名微信公众号（微信号：BlockchainAge）
-* 「区块链技术指北」同名知识星球，[https://t.xiaomiquan.com/ZRbmaU3](https://t.xiaomiquan.com/ZRbmaU3)
 * 个人博客，[https://dbarobin.com](https://dbarobin.com)
 * 知乎，[https://zhuanlan.zhihu.com/robinwen](https://zhuanlan.zhihu.com/robinwen)
 * Steemit，[https://steemit.com/@robinwen](https://steemit.com/@robinwen)
@@ -40,8 +46,6 @@
 
 ![Wechat](https://i.imgur.com/SzoNl5b.jpg)
 
-**货币的本质就是信任，从今天开启新的序幕。**
-
 –EOF–
 
-版权声明：自由转载-非商用-非衍生-保持署名<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh" target="_blank">（创意共享4.0许可证）</a>
+版权声明：[自由转载-非商用-非衍生-保持署名（创意共享4.0许可证）](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
